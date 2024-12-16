@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "6JjprLHV+A4=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\TOMERM3\\source\\repos\\Blood-Donor-ServerSide\\Blood-Donor-ServerSide\\Blood-Donor-ServerSide.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\TOMERM3\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.21.0\\microsoft.visualstudio.azure.containers.tools.targets.1.21.0.nupkg.sha512"
+  ],
+  "logs": []
+}
